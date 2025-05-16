@@ -16,4 +16,3 @@ CLIPS> (run)
 Found animal: elephant
 Found animal: turtle
 Found animal: bird
-CLIPS> 
